@@ -14,7 +14,7 @@ I like simplicity, so i merged the simplicity of `Slim Framework` with the power
 2)- `routes`: contains all your routes files .  
 3)- `vendor`: is the composer directory for installing new packages .  
 4)- `views`: is the directory that contains the views of your projects .  
-5)- `settings.php`: this files contains a global settings for use with Slim and laravel Capsule "the database manager" .  
+5)- `settings.php`: this file contains a global settings for use with Slim and laravel Capsule "the database manager" .  
 
 # wiki 
 There is no wiki !!, just goto `Slim Framework` wiki and `Laravel\Capsule` package wiki ;) .  
