@@ -7,7 +7,7 @@ I like simplicity, so i merged the simplicity of `Slim Framework` with the power
 # installation
 1)- `git clone https://github.com/alash3al/phpremix.git`  
 2)- `cd phpremix`  
-3)- start coding !  
+3)- `composer install`  
 
 # directory overview
 1)- `lib`: contains all your custom libraries e.g `models, ... etc` it follows the composer standards .  
